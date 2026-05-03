@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet porte la conception d’un **robot suiveur de ligne** basé sur une architecture de **co-design matériel/logiciel sur FPGA**.  
+Ce projet porte sur la conception d’un **robot suiveur de ligne** basé sur une architecture de **co-design matériel/logiciel sur FPGA**.  
 Le système a été développé de manière progressive, en plusieurs versions, chaque étape apportant des améliorations fonctionnelles et architecturales.
 
 La plateforme utilisée est la **DE0-Nano (FPGA Cyclone IV)** avec une **SDRAM de 32 Mo**, en utilisant :
